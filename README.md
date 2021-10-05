@@ -1,2 +1,2 @@
 # hello-word
-new repository
+some description!
